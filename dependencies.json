@@ -1,0 +1,26 @@
+{
+  "sing_box": {
+    "version": "1.14.3",
+    "release_url": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.3",
+    "assets": {
+      "arm64": {
+        "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-darwin-arm64.tar.gz",
+        "sha256": "0360ce634a04c26a6b4fd957517987bb4f6c8950f63435ce3c5af2fcae5860c5",
+        "binary_sha256": "28b7200074d6380006acc4f035a404c8af3dceb65dd92d7386ed92c9224e08a2"
+      },
+      "amd64": {
+        "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-darwin-amd64.tar.gz",
+        "sha256": "6d002b74d03b478547349cc10af89e007868596e5aa931816d45da9f544715a9",
+        "binary_sha256": "4d63d13fe7516a5d0a76c764095238f9d51ada7bfa5d18cf5030ca3032882c68"
+      }
+    }
+  },
+  "proxybridge": {
+    "version": "4.0.0",
+    "release_url": "https://github.com/InterceptSuite/ProxyBridge/releases/tag/v4.0.0",
+    "url": "https://github.com/InterceptSuite/ProxyBridge/releases/download/v4.0.0/ProxyBridge-v4.0.0-Universal-Installer.pkg",
+    "sha256": "df64a77b9bd1a6f9d41b4c7e2169dbf86c23441c6751b65a0a55c016a6253d0a"
+  },
+  "verified_on": "2026-10-13",
+  "source": "GitHub official release asset digests; dependencies are not bundled"
+}
